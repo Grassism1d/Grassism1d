@@ -1,5 +1,7 @@
 @grassism1d
 
+15
+
 **old enough to understand.**
 
 discord, twitter, tiktok, and reddit : grassismid
@@ -13,6 +15,11 @@ im  currently intrested in :
 
 -HTML+CSS website development and front end programing
 
-number 1 moment glazer (#RATEGRAVITY)
+- Arch linux stuff
+
+-android rooting/Custom bootloading
+
+
+(still) number 1 moment glazer (#RATEGRAVITY)
 
 stay safe, god bless.
